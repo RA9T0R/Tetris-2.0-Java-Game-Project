@@ -1,8 +1,34 @@
 # My Project
 
-Click [here to download Tetris2_0.jar](./Tetris2_0.jar) to get the latest version of Tetris.
+- [Click here to download Tetris2_0.jar](./Tetris2_0.jar)
+- [Click here to see the document](./OOP_Game project.pdf)
 
-Or if `Tetris2_0.jar` is in a folder:
+# Requirements
 
-```markdown
-Click [here to download Tetris2_0.jar](./folder_name/Tetris2_0.jar).
+- **Tetris 2.0**
+
+- **บทที่ 1 บทนำ**
+  - ที่มาและความสำคัญของโปรเจ็ค
+  - ประเภทของโครงการ
+  - ประโยชน์
+  - ขอบเขตของโครงการ (แนบ Proposal)
+
+- ** บทที่ 2 ส่วนการพัฒนา**
+  - เนื้อเรื่องย่อหรือวิธิการเล่น (กรณีเกมส์)
+  - คลาสไดอะแกรม พร้อมคำอธิบาย
+  - รูปแบบการพัฒนา Application / Applet
+  - อธิบายส่วนของโปรแกรมที่มี : 
+    - Constructor
+    - Encapsulation
+    - Composition
+    - Polymorphism
+    - Abstract
+    - Inheritance
+  -  หน้าจอ GUI อธิบายส่วนประกอบของ GUI โครงสร้างของ GUI ประกอบด้วย Component อะไรบ้าง
+  -  อธิบาย Event handling ที่มีในหน้าจอ
+  -  อธิบายอัลกอริทึมที่สำคัญในโปรแกรม
+
+- ** บทที่ 3 สรุป**
+  - ปัญหาที่พบระหว่างการพัฒนา
+  - จุดเด่นของโปรแกรมที่ไม่เหมือนใคร
+  - คำแนะนำสำหรับผู้สอนที่อยากให้อธิบาย หรือที่เรียนแล้วไม่เข้าใจ หรืออยากให้เพิ่มสำหรับน้อง ๆ รุ่นต่อไป
