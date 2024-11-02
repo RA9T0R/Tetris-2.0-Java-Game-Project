@@ -1,7 +1,7 @@
 # My Project
 
 - [Click here to download Tetris2_0.jar](./Tetris2_0.jar)
-- [Click here to see the document](./OOP_Game project.pdf)
+- [Click here to see the document](./OOP_Game%20project.pdf)
 
 # Requirements
 
