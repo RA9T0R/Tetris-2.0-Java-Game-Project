@@ -1,7 +1,7 @@
 # My Project
 
-- [Click here to download Tetris2_0.jar](./Tetris2_0.jar)
-- [Click here to see the document](./OOP_Game%20project.pdf)
+- [กดตรงนี้เพื่อ Dowload เกม Tetris 2.0](./Tetris2_0.jar)
+- [กดตรงนี้เพื่อ ดูเอกสารของ Project](./OOP_Game%20project.pdf)
 
 # Requirements
 
